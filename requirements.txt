@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+soundfile
+numpy
+librosa
+# MiraTTS must be installed from source
+git+https://github.com/ysharma3501/MiraTTS.git
